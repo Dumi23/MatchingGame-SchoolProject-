@@ -1,0 +1,17 @@
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\bin\Debug\net6.0-windows\DjoletovaIgra.exe
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\bin\Debug\net6.0-windows\DjoletovaIgra.deps.json
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\bin\Debug\net6.0-windows\DjoletovaIgra.runtimeconfig.json
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\bin\Debug\net6.0-windows\DjoletovaIgra.dll
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\bin\Debug\net6.0-windows\DjoletovaIgra.pdb
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\obj\Debug\net6.0-windows\DjoletovaIgra.vbproj.AssemblyReference.cache
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\obj\Debug\net6.0-windows\DjoletovaIgra.Form1.resources
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\obj\Debug\net6.0-windows\DjoletovaIgra.vbproj.GenerateResource.cache
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\obj\Debug\net6.0-windows\DjoletovaIgra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\obj\Debug\net6.0-windows\DjoletovaIgra.AssemblyInfoInputs.cache
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\obj\Debug\net6.0-windows\DjoletovaIgra.AssemblyInfo.vb
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\obj\Debug\net6.0-windows\DjoletovaIgra.vbproj.CoreCompileInputs.cache
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\obj\Debug\net6.0-windows\DjoletovaIgra.dll
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\obj\Debug\net6.0-windows\refint\DjoletovaIgra.dll
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\obj\Debug\net6.0-windows\DjoletovaIgra.pdb
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\obj\Debug\net6.0-windows\DjoletovaIgra.genruntimeconfig.cache
+C:\Users\malid\source\repos\DjoletovaIgra\DjoletovaIgra\obj\Debug\net6.0-windows\ref\DjoletovaIgra.dll
